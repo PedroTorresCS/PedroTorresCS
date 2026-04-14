@@ -57,7 +57,7 @@ Sistema fullstack para gerenciamento de biblioteca pessoal.
 
 ## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/pedro-torrescs/
 
 ---
 
