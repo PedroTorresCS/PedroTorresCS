@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green)
+![React](https://img.shields.io/badge/React-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
 # 👋 Olá, eu sou o Pedro
 
 💻 Desenvolvedor em transição de carreira  
