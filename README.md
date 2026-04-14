@@ -1,3 +1,61 @@
-Fullstack em formação (Java + Spring Boot + React).
-Experiência prévia em suporte técnico, trazendo visão prática de negócio.
-Construindo aplicações reais e evoluindo constantemente como desenvolvedor.
+# 👋 Olá, eu sou o Pedro
+
+💻 Desenvolvedor em transição de carreira  
+🚀 Focado em Java, Spring Boot e React  
+📍 Brasil  
+
+---
+
+## 🧠 Sobre mim
+
+Atualmente em transição de carreira da área de suporte técnico para desenvolvimento de software.
+
+Tenho experiência prática com resolução de problemas, atendimento a usuários e infraestrutura de TI, o que me trouxe uma visão real de negócio e sistemas.
+
+Hoje estou focado em construir aplicações fullstack e evoluir constantemente como desenvolvedor.
+
+---
+
+## 🚀 Tecnologias
+
+### Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+
+### Frontend
+- React
+- Vite
+- Axios
+
+### Banco de Dados
+- PostgreSQL
+
+---
+
+## 📌 Projetos em destaque
+
+### 📚 ShelfTrack
+Sistema fullstack para gerenciamento de biblioteca pessoal.
+
+🔗 https://github.com/PedroTorresCS/Shelf
+
+---
+
+## 📈 Atualmente estudando
+
+- Arquitetura de software
+- APIs REST avançadas
+- Boas práticas com Spring Boot
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (coloque seu link aqui)
+
+---
+
+## ⚡ Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor e crescer na área construindo soluções reais.
